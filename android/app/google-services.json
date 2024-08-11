@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604803627661",
+    "project_id": "vehical-breakdown-app",
+    "storage_bucket": "vehical-breakdown-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604803627661:android:2636f6d87290883999c0c4",
+        "android_client_info": {
+          "package_name": "com.example.vehical_breakdown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpHJ0YRRjKTHeadYyEWCyZlU3OmBRzixI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
